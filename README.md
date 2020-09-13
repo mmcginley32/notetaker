@@ -17,7 +17,6 @@ Mason McGinley
 HTTP, CSS, JavaScript, Bootstrap, jQuery, Ajax, Node.js, ES6, Express, Path, FS
 
 ## Table of Contents
-* [Example](#example)
   
 * [Installation](#installation)
   
